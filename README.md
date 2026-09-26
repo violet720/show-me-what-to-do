@@ -1,6 +1,6 @@
 # Hi, I'm Ying-Siou-Hong 👋
 
-Public Administration graduate
+Public Administration graduate.
 
 I’m interested in how technology can connect people, organizations, and real-world problems.
 
