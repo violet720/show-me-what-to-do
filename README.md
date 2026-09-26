@@ -11,8 +11,7 @@ A personal literary website for archiving writing, photography, and memories acr
 
 **Focus:** content structure, visual direction, web publishing, digital archive
 
-🌐Website: [Violet's Literature](https://violet720.github.io/Violet-s-Literature/)
----
+🌐Website: https://violet720.github.io/Violet-s-Literature/
 
 ### WordSpark
 An English-learning web project developed from classroom observations.
