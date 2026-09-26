@@ -11,7 +11,7 @@ A personal literary website for archiving writing, photography, and memories acr
 
 **Focus:** content structure, visual direction, web publishing, digital archive
 
-🌐 Website: https://violet720.github.io/WordSpark-An-Interactive-Vocabulary-Learning-App/
+🌐 Website:https://violet720.github.io/Violet-s-Literature/
 ---
 
 ### WordSpark
@@ -21,7 +21,7 @@ The project explores how interactive digital tools can improve student engagemen
 
 **Focus:** educational technology, user needs, interactive learning, product iteration
 
-🌐 Website: https://violet720.github.io/Violet-s-Literature/
+🌐 Website: https://violet720.github.io/WordSpark-An-Interactive-Vocabulary-Learning-App/
 
 ## Background
 
