@@ -35,7 +35,7 @@ The project explores how interactive digital tools can improve student engagemen
 
 ## Interests
 
-Information Systems · System Analysis · Product / Project Management · AI Applications · Educational Technology
+Photography · Writing · Design
 
 ---
 
