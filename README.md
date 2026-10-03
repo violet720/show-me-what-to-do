@@ -1,43 +1,68 @@
-# Hi, I'm Ying-Siou-Hong 👋
-This is Show — what I learn, what I build, and what I care about.
+# Show Me What to Do
 
-Public Administration graduate.
+Hi, I’m Show.
 
-I’m interested in how technology can connect people, organizations, and real-world problems.
+This is where I collect what I’m building, learning, writing, and thinking about.
 
-## Featured Projects
-
-### 尚未裝訂。
-A personal literary website for archiving writing, photography, and memories across different stages of life.
-
-**Focus:** content structure, visual direction, web publishing, digital archive
-
-🌐Website: https://violet720.github.io/Violet-s-Literature/
-
-### WordSpark
-An English-learning web project developed from classroom observations.
-
-The project explores how interactive digital tools can improve student engagement, vocabulary practice, and classroom learning experience.
-
-**Focus:** educational technology, user needs, interactive learning, product iteration
-
-🌐 Website: https://violet720.github.io/WordSpark-An-Interactive-Vocabulary-Learning-App/
-
-## Background
-
-- B.A. in Public Administration, National Dong Hwa University
-- English teaching experience
-- Teaching assistant experience
-- National basketball referee certification
-- Currently studying computer science fundamentals:
-  - Computer Concepts
-  - Data Structures
-  - Operating Systems
-
-## Interests
-
-Photography · Writing · Design
+從真實問題出發，整理需求、設計流程，也把喜歡的事做成作品。
 
 ---
 
-Still learning. Still building. Still becoming.
+## About Me
+
+公共行政背景，喜歡觀察問題、整理資訊、設計流程，也喜歡把腦中的想法真正做出來。
+
+目前持續探索資訊系統、需求分析、數位產品與跨領域應用，也透過不同專案記錄自己的學習與實作過程。
+
+---
+
+## Projects
+
+### Requirement Translator
+將模糊的需求逐步整理成更清楚、可執行的需求內容。
+
+**Focus:** Requirement Analysis / Communication / System Thinking
+
+### WordSpark
+從英文教學現場出發，設計互動式單字學習工具，改善課堂參與與複習體驗。
+
+**Focus:** Education / User Needs / Interactive Learning
+
+### Violet’s Literature
+收藏自己的文字、影像與記憶，建立屬於自己的數位作品空間。
+
+**Focus:** Writing / Visual Design / Digital Archive
+
+### Personal Profile
+整理個人經歷、專案、興趣與學習歷程的個人網站。
+
+**Focus:** Portfolio / Web Design / Personal Branding
+
+---
+
+## What I’m Learning
+
+- Computer Concepts
+- Data Structures
+- Operating Systems
+- Requirement Analysis
+- Systems Analysis
+- Information Systems
+
+---
+
+## What I Like
+
+Photography  
+Writing  
+Website Design  
+Learning new things  
+Turning ideas into something real
+
+---
+
+## Now
+
+Currently learning, building, and figuring out what comes next.
+
+One project at a time.
