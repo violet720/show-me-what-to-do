@@ -1,4 +1,5 @@
 # Hi, I'm Ying-Siou-Hong 👋
+This is Show — what I learn, what I build, and what I care about.
 
 Public Administration graduate.
 
