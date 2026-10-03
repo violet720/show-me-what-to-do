@@ -66,3 +66,6 @@ Turning ideas into something real
 Currently learning, building, and figuring out what comes next.
 
 One project at a time.
+
+📍 Tainan, Taiwan
+✉️ Email:violet930720@gmail.com
